@@ -86,6 +86,11 @@ p.lead {
   border-radius: 10px 100px / 120px;
 }
 
+.project {
+  height: 20rem;
+  width: 35rem;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: .05rem;
